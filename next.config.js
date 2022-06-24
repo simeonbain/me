@@ -1,3 +1,3 @@
 module.exports = {
-  basePath: '/personal-site',
+  basePath: '/me',
 }
